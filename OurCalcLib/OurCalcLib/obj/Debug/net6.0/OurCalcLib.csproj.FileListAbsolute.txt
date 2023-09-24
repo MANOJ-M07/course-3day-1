@@ -1,0 +1,11 @@
+D:\simplilearn\course-3\day-1\OurCalcLib\OurCalcLib\bin\Debug\net6.0\OurCalcLib.deps.json
+D:\simplilearn\course-3\day-1\OurCalcLib\OurCalcLib\bin\Debug\net6.0\OurCalcLib.dll
+D:\simplilearn\course-3\day-1\OurCalcLib\OurCalcLib\bin\Debug\net6.0\OurCalcLib.pdb
+D:\simplilearn\course-3\day-1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\OurCalcLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\simplilearn\course-3\day-1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\OurCalcLib.AssemblyInfoInputs.cache
+D:\simplilearn\course-3\day-1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\OurCalcLib.AssemblyInfo.cs
+D:\simplilearn\course-3\day-1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\OurCalcLib.csproj.CoreCompileInputs.cache
+D:\simplilearn\course-3\day-1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\OurCalcLib.dll
+D:\simplilearn\course-3\day-1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\refint\OurCalcLib.dll
+D:\simplilearn\course-3\day-1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\OurCalcLib.pdb
+D:\simplilearn\course-3\day-1\OurCalcLib\OurCalcLib\obj\Debug\net6.0\ref\OurCalcLib.dll
